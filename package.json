@@ -1,0 +1,17 @@
+{
+  "name": "varnish-spike",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "4.14.0",
+    "log4js": "0.6.38"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Louis Sanchez",
+  "license": "ISC"
+}
